@@ -1,0 +1,94 @@
+﻿service_a,service_b,pair,cooccurrence_count,session_count_a,session_count_b,support,support_percentage,confidence_a_to_b,confidence_b_to_a,lift
+Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,Registar proizvođača s proširenom odgovornosti (RPPO),Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila | Registar proizvođača s proširenom odgovornosti (RPPO),5636,19218,19348,0.00138689,0.1387,0.29326673,0.29129626,61.59650208
+E-Usluge javnozdravstvenih registara,eHZZO,E-Usluge javnozdravstvenih registara | eHZZO,4529,14404,61895,0.00111448,0.1114,0.31442655,0.07317231,20.64395836
+Moj račun - REGOS,e-Usluge Središnjeg registra osiguranika - REGOS,Moj račun - REGOS | e-Usluge Središnjeg registra osiguranika - REGOS,4383,27665,33873,0.00107855,0.1079,0.15843123,0.12939509,19.00712661
+Moj račun - REGOS,Moja mirovina,Moj račun - REGOS | Moja mirovina,5147,27665,43404,0.00126656,0.1267,0.18604735,0.11858354,17.41899412
+Moj OIB,e-Matične knjige,Moj OIB | e-Matične knjige,12930,33236,102388,0.00318177,0.3182,0.38903599,0.12628433,15.44080891
+Sustav Fondovi EU,eKohezija 2021-2027,Sustav Fondovi EU | eKohezija 2021-2027,5762,30484,52901,0.00141789,0.1418,0.18901719,0.10892044,14.52000457
+Moj OIB,e-Usluge MUP-a,Moj OIB | e-Usluge MUP-a,9302,33236,87191,0.00228901,0.2289,0.27987724,0.10668532,13.0444346
+e-Matične knjige,e-Usluge MUP-a,e-Matične knjige | e-Usluge MUP-a,24118,102388,87191,0.00593488,0.5935,0.23555495,0.27661112,10.97867442
+Korisničke stranice HZMO-a,e-Usluge HZMO-a,Korisničke stranice HZMO-a | e-Usluge HZMO-a,5514,15739,152983,0.00135687,0.1357,0.35033992,0.03604322,9.30627297
+Uvjerenje da se ne vodi kazneni ili prekršajni postupak,e-Usluge MUP-a,Uvjerenje da se ne vodi kazneni ili prekršajni postupak | e-Usluge MUP-a,5843,41464,87191,0.00143783,0.1438,0.14091742,0.0670138,6.56783699
+e-Usluge HZMO-a,e-Usluge Središnjeg registra osiguranika - REGOS,e-Usluge HZMO-a | e-Usluge Središnjeg registra osiguranika - REGOS,6380,152983,33873,0.00156997,0.157,0.04170398,0.1883506,5.00326121
+Uvjerenje da se ne vodi kazneni ili prekršajni postupak,e-Usluge HZMO-a,Uvjerenje da se ne vodi kazneni ili prekršajni postupak | e-Usluge HZMO-a,7063,41464,152983,0.00173804,0.1738,0.17034054,0.04616853,4.52484983
+Uvjerenje da se ne vodi kazneni ili prekršajni postupak,e-Matične knjige,Uvjerenje da se ne vodi kazneni ili prekršajni postupak | e-Matične knjige,4339,41464,102388,0.00106773,0.1068,0.10464499,0.04237801,4.15335189
+Korisnički pretinac,e-Upravni postupak,Korisnički pretinac | e-Upravni postupak,36773,1060857,40228,0.00904898,0.9049,0.03466348,0.91411455,3.501653
+Moja mirovina,e-Usluge HZMO-a,Moja mirovina | e-Usluge HZMO-a,5419,43404,152983,0.00133349,0.1333,0.12485024,0.03542224,3.31646606
+e-Matične knjige,e-Usluge HZMO-a,e-Matične knjige | e-Usluge HZMO-a,11302,102388,152983,0.00278116,0.2781,0.11038403,0.07387749,2.93219199
+E-Usluge javnozdravstvenih registara,Portal zdravlja,E-Usluge javnozdravstvenih registara | Portal zdravlja,6827,14404,808922,0.00167997,0.168,0.47396557,0.00843963,2.38105527
+Portal zdravlja,eHZZO,Portal zdravlja | eHZZO,27881,808922,61895,0.00686087,0.6861,0.03446686,0.45045642,2.26295264
+Moj OIB,Moj profil,Moj OIB | Moj profil,30484,33236,1649388,0.00750141,0.7501,0.91719822,0.01848201,2.25979845
+Korisnički pretinac,e-Usluge Središnjeg registra osiguranika - REGOS,Korisnički pretinac | e-Usluge Središnjeg registra osiguranika - REGOS,19488,1060857,33873,0.00479554,0.4796,0.01837005,0.57532548,2.20387062
+Moj profil,e-Usluge MUP-a,Moj profil | e-Usluge MUP-a,77888,1649388,87191,0.01916643,1.9166,0.04722236,0.89330321,2.20092578
+Moj profil,e-Matične knjige,Moj profil | e-Matične knjige,89824,1649388,102388,0.0221036,2.2104,0.05445899,0.87729031,2.1614731
+e-Usluge HZMO-a,e-Usluge MUP-a,e-Usluge HZMO-a | e-Usluge MUP-a,6421,152983,87191,0.00158006,0.158,0.04197198,0.07364292,1.95621764
+Korisnički pretinac,e-Usluge MUP-a,Korisnički pretinac | e-Usluge MUP-a,43130,1060857,87191,0.01061329,1.0613,0.04065581,0.49466115,1.89487378
+Korisnički pretinac,Moj OIB,Korisnički pretinac | Moj OIB,16340,1060857,33236,0.00402089,0.4021,0.01540264,0.49163558,1.88328388
+e-Usluge HZMO-a,eHZZO,e-Usluge HZMO-a | eHZZO,4311,152983,61895,0.00106084,0.1061,0.0281796,0.06965021,1.85015714
+Korisnički pretinac,Obavijest o prekršaju u prometu,Korisnički pretinac | Obavijest o prekršaju u prometu,8502,1060857,17697,0.00209214,0.2092,0.00801428,0.48042041,1.8403225
+Moj OIB,Portal zdravlja,Moj OIB | Portal zdravlja,12055,33236,808922,0.00296646,0.2966,0.36270911,0.01490255,1.82213752
+Korisnički pretinac,Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,Korisnički pretinac | Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,9012,1060857,19218,0.00221764,0.2218,0.00849502,0.46893537,1.79632735
+Korisnički pretinac,Moj profil,Korisnički pretinac | Moj profil,763909,1060857,1649388,0.18798028,18.798,0.72008668,0.46314694,1.77415387
+E-Usluge javnozdravstvenih registara,Korisnički pretinac,E-Usluge javnozdravstvenih registara | Korisnički pretinac,6646,14404,1060857,0.00163543,0.1635,0.46139961,0.00626475,1.76746048
+Korisnički pretinac,eHZZO,Korisnički pretinac | eHZZO,28550,1060857,61895,0.00702549,0.7025,0.0269122,0.46126505,1.766945
+Moj profil,Portal zdravlja,Moj profil | Portal zdravlja,559678,1649388,808922,0.13772377,13.7724,0.33932465,0.69188129,1.70466126
+Moj profil,e-Upravni postupak,Moj profil | e-Upravni postupak,27777,1649388,40228,0.00683528,0.6835,0.01684079,0.69048921,1.70123144
+Moj profil,eHZZO,Moj profil | eHZZO,42271,1649388,61895,0.01040191,1.0402,0.02562829,0.68294693,1.68264871
+Moj profil,e-Usluge socijalna skrb,Moj profil | e-Usluge socijalna skrb,4738,1649388,6942,0.00116591,0.1166,0.00287258,0.68251224,1.68157774
+Korisnički pretinac,e-Obrt,Korisnički pretinac | e-Obrt,10837,1060857,25481,0.00266673,0.2667,0.01021533,0.42529728,1.62916508
+E-Usluge javnozdravstvenih registara,Moj profil,E-Usluge javnozdravstvenih registara | Moj profil,9476,14404,1649388,0.00233182,0.2332,0.65787281,0.00574516,1.62087096
+Korisnički pretinac,e-Matične knjige,Korisnički pretinac | e-Matične knjige,43063,1060857,102388,0.01059681,1.0597,0.04059265,0.4205864,1.61111933
+Moj profil,e-Usluge Središnjeg registra osiguranika - REGOS,Moj profil | e-Usluge Središnjeg registra osiguranika - REGOS,21366,1649388,33873,0.00525768,0.5258,0.0129539,0.63076787,1.55408964
+Korisnički pretinac,e-Dugovanja (e-Blokade),Korisnički pretinac | e-Dugovanja (e-Blokade),25164,1060857,62970,0.00619228,0.6192,0.02372044,0.39961887,1.53080006
+Moj profil,Moja mirovina,Moj profil | Moja mirovina,26794,1649388,43404,0.00659338,0.6593,0.01624481,0.61731638,1.52094777
+Korisnički pretinac,Moja mirovina,Korisnički pretinac | Moja mirovina,16486,1060857,43404,0.00405682,0.4057,0.01554027,0.37982674,1.45498336
+Korisnički pretinac,e-Ovlaštenja,Korisnički pretinac | e-Ovlaštenja,4750,1060857,12736,0.00116886,0.1169,0.00447751,0.37295854,1.42867369
+Korisničke stranice HZMO-a,Korisnički pretinac,Korisničke stranice HZMO-a | Korisnički pretinac,5863,15739,1060857,0.00144275,0.1443,0.37251414,0.00552666,1.42697133
+Centralizirani sustav za zapošljavanje,Korisnički pretinac,Centralizirani sustav za zapošljavanje | Korisnički pretinac,23464,64825,1060857,0.00577395,0.5774,0.36195912,0.02211797,1.38653875
+Korisničke stranice HZMO-a,Moj profil,Korisničke stranice HZMO-a | Moj profil,8601,15739,1649388,0.00211651,0.2117,0.5464769,0.00521466,1.34641306
+Portal zdravlja,e-Usluge MUP-a,Portal zdravlja | e-Usluge MUP-a,23339,808922,87191,0.00574319,0.5743,0.02885198,0.26767671,1.34472436
+Portal zdravlja,e-Matične knjige,Portal zdravlja | e-Matične knjige,26692,808922,102388,0.00656828,0.6568,0.032997,0.26069461,1.30964848
+Moj profil,Uvjerenje da se ne vodi kazneni ili prekršajni postupak,Moj profil | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,21942,1649388,41464,0.00539942,0.5399,0.01330312,0.52918194,1.30380162
+Korisnički pretinac,Uvjerenje da se ne vodi kazneni ili prekršajni postupak,Korisnički pretinac | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,14026,1060857,41464,0.00345147,0.3451,0.01322139,0.33826934,1.2957915
+Moj profil,Obavijest o prekršaju u prometu,Moj profil | Obavijest o prekršaju u prometu,9098,1649388,17697,0.00223881,0.2239,0.00551599,0.51409843,1.26663879
+Moj profil,e-Ovlaštenja,Moj profil | e-Ovlaštenja,6475,1649388,12736,0.00159335,0.1593,0.0039257,0.50840138,1.25260236
+Moj profil,e-Usluge HZMO-a,Moj profil | e-Usluge HZMO-a,75313,1649388,152983,0.01853278,1.8533,0.04566118,0.49229653,1.21292313
+Moj profil,Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,Moj profil | Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,9458,1649388,19218,0.00232739,0.2327,0.00573425,0.49214278,1.21254433
+Moj profil,Uvjerenje iz kaznene evidencije,Moj profil | Uvjerenje iz kaznene evidencije,4290,1649388,8750,0.00105567,0.1056,0.00260096,0.49028571,1.20796887
+Korisnički pretinac,e-Usluge HZMO-a,Korisnički pretinac | e-Usluge HZMO-a,47307,1060857,152983,0.01164116,1.1641,0.04459319,0.30923044,1.18455361
+Korisnički pretinac,e-Komunikacija,Korisnički pretinac | e-Komunikacija,109931,1060857,364943,0.02705147,2.7051,0.10362471,0.30122786,1.15389855
+Moj profil,e-Dugovanja (e-Blokade),Moj profil | e-Dugovanja (e-Blokade),28036,1649388,62970,0.00689901,0.6899,0.01699782,0.44522789,1.09695512
+Moj profil,e-Zapis o statusu studenta,Moj profil | e-Zapis o statusu studenta,8635,1649388,19565,0.00212487,0.2125,0.00523528,0.44134935,1.08739916
+Korisnički pretinac,Moj račun - REGOS,Korisnički pretinac | Moj račun - REGOS,7526,1060857,27665,0.00185197,0.1852,0.00709426,0.27204048,1.04209192
+Portal zdravlja,e-Upravni postupak,Portal zdravlja | e-Upravni postupak,7784,808922,40228,0.00191546,0.1915,0.00962268,0.19349707,0.97206895
+Moj profil,Moj račun - REGOS,Moj profil | Moj račun - REGOS,10688,1649388,27665,0.00263007,0.263,0.00647998,0.38633653,0.95185824
+Korisnički pretinac,Portal zdravlja,Korisnički pretinac | Portal zdravlja,192088,1060857,808922,0.0472684,4.7268,0.1810687,0.23746171,0.90963272
+Korisnički pretinac,eGrađevinska dozvola i druge usluge u gradnji,Korisnički pretinac | eGrađevinska dozvola i druge usluge u gradnji,14578,1060857,61633,0.00358731,0.3587,0.01374172,0.23652913,0.90606035
+Korisnički pretinac,Registar proizvođača s proširenom odgovornosti (RPPO),Korisnički pretinac | Registar proizvođača s proširenom odgovornosti (RPPO),4450,1060857,19348,0.00109504,0.1095,0.00419472,0.22999793,0.88104161
+Korisnički pretinac,Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,Korisnički pretinac | Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,18894,1060857,82997,0.00464938,0.4649,0.01781013,0.22764678,0.87203518
+Moj profil,eGrađevinska dozvola i druge usluge u gradnji,Moj profil | eGrađevinska dozvola i druge usluge u gradnji,20708,1649388,61633,0.00509576,0.5096,0.01255496,0.33598884,0.8278113
+Moj profil,e-Obrt,Moj profil | e-Obrt,8426,1649388,25481,0.00207344,0.2073,0.00510856,0.33067776,0.81472584
+Portal zdravlja,e-Usluge Središnjeg registra osiguranika - REGOS,Portal zdravlja | e-Usluge Središnjeg registra osiguranika - REGOS,5164,808922,33873,0.00127074,0.1271,0.0063838,0.15245181,0.76587035
+e-Obrt,ePorezna,e-Obrt | ePorezna,4592,25481,969662,0.00112998,0.113,0.18021271,0.00473567,0.75525632
+Moj profil,e-Dnevnik za roditelje,Moj profil | e-Dnevnik za roditelje,32190,1649388,112882,0.00792121,0.7921,0.01951633,0.28516504,0.70259133
+Moj profil,Registar proizvođača s proširenom odgovornosti (RPPO),Moj profil | Registar proizvođača s proširenom odgovornosti (RPPO),5461,1649388,19348,0.00134383,0.1344,0.00331093,0.2822514,0.69541267
+Moja mirovina,Portal zdravlja,Moja mirovina | Portal zdravlja,5786,43404,808922,0.0014238,0.1424,0.13330569,0.00715273,0.66968622
+Centralizirani sustav za zapošljavanje,Moj profil,Centralizirani sustav za zapošljavanje | Moj profil,17491,64825,1649388,0.00430413,0.4304,0.26981874,0.01060454,0.66478103
+Moj profil,Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,Moj profil | Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,22100,1649388,82997,0.0054383,0.5438,0.01339891,0.26627468,0.65604916
+Moj profil,e-Pomorac,Moj profil | e-Pomorac,4101,1649388,16401,0.00100916,0.1009,0.00248638,0.25004573,0.61606416
+Korisnički pretinac,e-Dnevnik za roditelje,Korisnički pretinac | e-Dnevnik za roditelje,18043,1060857,112882,0.00443996,0.444,0.01700795,0.15983948,0.61228912
+Burza rada,Moj profil,Burza rada | Moj profil,30922,132751,1649388,0.00760919,0.7609,0.23293233,0.01874756,0.57390007
+Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,e-Komunikacija,Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS | e-Komunikacija,4186,82997,364943,0.00103008,0.103,0.05043556,0.01147028,0.56161814
+Burza rada,Korisnički pretinac,Burza rada | Korisnički pretinac,18584,132751,1060857,0.00457309,0.4573,0.13999141,0.01751791,0.53625812
+Moj profil,e-Komunikacija,Moj profil | e-Komunikacija,73799,1649388,364943,0.01816022,1.816,0.04474326,0.20222062,0.49823237
+Moj profil,ePorezna,Moj profil | ePorezna,192774,1649388,969662,0.04743721,4.7437,0.11687608,0.19880536,0.48981783
+Korisnički pretinac,ePorezna,Korisnički pretinac | ePorezna,123641,1060857,969662,0.03042518,3.0425,0.11654822,0.12750938,0.48844382
+Portal zdravlja,e-Usluge HZMO-a,Portal zdravlja | e-Usluge HZMO-a,10796,808922,152983,0.00265665,0.2657,0.01334616,0.07056993,0.35452135
+Portal zdravlja,e-Dnevnik za roditelje,Portal zdravlja | e-Dnevnik za roditelje,7318,808922,112882,0.00180079,0.1801,0.00904661,0.06482876,0.32567948
+e-Usluge MUP-a,ePorezna,e-Usluge MUP-a | ePorezna,6681,87191,969662,0.00164404,0.1644,0.07662488,0.00689003,0.32112844
+Moj profil,e-Poljoprivreda,Moj profil | e-Poljoprivreda,4624,1649388,37461,0.00113786,0.1138,0.00280346,0.12343504,0.30411999
+e-Matične knjige,ePorezna,e-Matične knjige | ePorezna,7096,102388,969662,0.00174616,0.1746,0.069305,0.00731801,0.29045142
+e-Usluge HZMO-a,ePorezna,e-Usluge HZMO-a | ePorezna,8667,152983,969662,0.00213275,0.2133,0.05665335,0.00893817,0.23742945
+Portal zdravlja,e-Komunikacija,Portal zdravlja | e-Komunikacija,10931,808922,364943,0.00268987,0.269,0.01351305,0.02995262,0.15047264
+Portal zdravlja,ePorezna,Portal zdravlja | ePorezna,20103,808922,969662,0.00494688,0.4947,0.02485159,0.02073197,0.10415094
+e-Komunikacija,ePorezna,e-Komunikacija | ePorezna,6572,364943,969662,0.00161722,0.1617,0.01800829,0.00677762,0.07547124

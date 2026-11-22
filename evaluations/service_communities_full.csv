@@ -1,0 +1,242 @@
+﻿community_id,community_size,service,dominant_services,dominant_themes
+1,22,Burza rada,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Centralizirani sustav za zapošljavanje,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,E-Usluge javnozdravstvenih registara,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Korisnički pretinac,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Moj profil,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Obavijest o prekršaju u prometu,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Portal zdravlja,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Uvjerenje iz kaznene evidencije,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Dnevnik za roditelje,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Dugovanja (e-Blokade),Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Komunikacija,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Obrt,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Ovlaštenja,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Poljoprivreda,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Pomorac,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Upravni postupak,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Usluge socijalna skrb,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,e-Zapis o statusu studenta,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,eGrađevinska dozvola i druge usluge u gradnji,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,eHZZO,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+1,22,ePorezna,Moj profil | Korisnički pretinac | Portal zdravlja | ePorezna | e-Komunikacija,administrative services | health | taxation
+2,6,Korisničke stranice HZMO-a,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+2,6,Moj OIB,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+2,6,Uvjerenje da se ne vodi kazneni ili prekršajni postupak,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+2,6,e-Matične knjige,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+2,6,e-Usluge HZMO-a,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+2,6,e-Usluge MUP-a,e-Matične knjige | e-Usluge MUP-a | e-Usluge HZMO-a | Moj OIB | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,administrative services
+3,3,Moj račun - REGOS,Moja mirovina | e-Usluge Središnjeg registra osiguranika - REGOS | Moj račun - REGOS,pensions | administrative services
+3,3,Moja mirovina,Moja mirovina | e-Usluge Središnjeg registra osiguranika - REGOS | Moj račun - REGOS,pensions | administrative services
+3,3,e-Usluge Središnjeg registra osiguranika - REGOS,Moja mirovina | e-Usluge Središnjeg registra osiguranika - REGOS | Moj račun - REGOS,pensions | administrative services
+4,2,Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila | Registar proizvođača s proširenom odgovornosti (RPPO),taxation | administrative services
+4,2,Registar proizvođača s proširenom odgovornosti (RPPO),Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila | Registar proizvođača s proširenom odgovornosti (RPPO),taxation | administrative services
+5,2,Sustav Fondovi EU,Sustav Fondovi EU | eKohezija 2021-2027,administrative services
+5,2,eKohezija 2021-2027,Sustav Fondovi EU | eKohezija 2021-2027,administrative services
+6,1,"""Financijske kartice grad Grad Poreč-Parenzo"" Objavljeno na platformi ""Otvoreni grad Poreč-Parenzo""","""Financijske kartice grad Grad Poreč-Parenzo"" Objavljeno na platformi ""Otvoreni grad Poreč-Parenzo""",local administration
+7,1,"""Financijske kartice građana Grada Vodnjana-Dignano""","""Financijske kartice građana Grada Vodnjana-Dignano""",local administration
+8,1,"""Financijske kartice"" (u sklopu portala Otvoreni grad Zaprešić)","""Financijske kartice"" (u sklopu portala Otvoreni grad Zaprešić)",local administration
+9,1,"""Sustav informiranja građana"" (u sklopu portala Otvoreni grad Pregrada)","""Sustav informiranja građana"" (u sklopu portala Otvoreni grad Pregrada)",local administration
+10,1,AKD AFFINIS izvještajno-upravljački sustav,AKD AFFINIS izvještajno-upravljački sustav,justice
+11,1,Administracija sustava e-upisi u odgojno-obrazovne ustanove,Administracija sustava e-upisi u odgojno-obrazovne ustanove,education
+12,1,Aktivacija mGrađani mobilne aplikacije,Aktivacija mGrađani mobilne aplikacije,administrative services
+13,1,Antikorupcijski dokumenti i trgovačka društva u vlasništvu države i JLP(R)S,Antikorupcijski dokumenti i trgovačka društva u vlasništvu države i JLP(R)S,administrative services
+14,1,CARNET Login,CARNET Login,administrative services
+15,1,CARNET mToken,CARNET mToken,administrative services
+16,1,CDU korisnički portal,CDU korisnički portal,administrative services
+17,1,CTS uvid u predmete,CTS uvid u predmete,administrative services
+18,1,Centralni metaregistar MPGI i Informacijskog sustava prostornog uređenja,Centralni metaregistar MPGI i Informacijskog sustava prostornog uređenja,administrative services
+19,1,Digitalna komora HGK,Digitalna komora HGK,administrative services
+20,1,Dostava elektroničkih isprava za registraciju vozila u Republici Hrvatskoj,Dostava elektroničkih isprava za registraciju vozila u Republici Hrvatskoj,justice
+21,1,EDIP,EDIP,administrative services
+22,1,Elektronički oglasnik javne nabave RH,Elektronički oglasnik javne nabave RH,administrative services
+23,1,Financijske kartice - Grad Kastav i Sustav informiranja građana - Grad Kastav,Financijske kartice - Grad Kastav i Sustav informiranja građana - Grad Kastav,local administration
+24,1,Financijske kartice Grad Dugo Selo i Sustav informiranja građana objavljeno na platformi OTVORENI GRAD DUGO SELO,Financijske kartice Grad Dugo Selo i Sustav informiranja građana objavljeno na platformi OTVORENI GRAD DUGO SELO,local administration
+25,1,Financijske kartice Grada Sveti Ivan Zelina,Financijske kartice Grada Sveti Ivan Zelina,local administration
+26,1,Financijsko izvještavanje u sustavu proračuna i Registar proračunskih i izvanproračunskih korisnika.(RKPFI),Financijsko izvještavanje u sustavu proračuna i Registar proračunskih i izvanproračunskih korisnika.(RKPFI),administrative services
+27,1,Geoportal ISPU,Geoportal ISPU,administrative services
+28,1,Geoportal Jaska,Geoportal Jaska,administrative services
+29,1,HZMO Lana,HZMO Lana,administrative services
+30,1,Home for Homeless servis sustava AAI@EduHr,Home for Homeless servis sustava AAI@EduHr,administrative services
+31,1,ISZNR (Informacijski sustav zaštite na radu),ISZNR (Informacijski sustav zaštite na radu),administrative services
+32,1,Informacijski sustav evidencija u visokom obrazovanju - ISeVO,Informacijski sustav evidencija u visokom obrazovanju - ISeVO,education
+33,1,Informacijski sustav-digitalna platforma za vrijednosne papire,Informacijski sustav-digitalna platforma za vrijednosne papire,administrative services
+34,1,InterniTurizam,InterniTurizam,tourism
+35,1,Izdavanje elektroničke isprave Grada Zagreba,Izdavanje elektroničke isprave Grada Zagreba,local administration
+36,1,JRPI - Jedinstveni registar poduzetničke infrastrukture,JRPI - Jedinstveni registar poduzetničke infrastrukture,tourism
+37,1,Javni pozivi i natječaji Grada Splita,Javni pozivi i natječaji Grada Splita,local administration
+38,1,Jedinstvena informacijska točka - Sustava katastra infrastrukture,Jedinstvena informacijska točka - Sustava katastra infrastrukture,tourism
+39,1,Jedinstveni informacijski sustav za prikupljanje i pohranu podataka te izračun indikatora za procjenu kapaciteta JLP(R)S,Jedinstveni informacijski sustav za prikupljanje i pohranu podataka te izračun indikatora za procjenu kapaciteta JLP(R)S,administrative services
+40,1,Kalendar plaćanja obveznih naknada,Kalendar plaćanja obveznih naknada,administrative services
+41,1,Komunalne usluge i naknade,Komunalne usluge i naknade,administrative services
+42,1,Kontakt centar za prijavu IKT problema i predaju zahtjeva,Kontakt centar za prijavu IKT problema i predaju zahtjeva,administrative services
+43,1,Kooltura - Kulturna iskaznica,Kooltura - Kulturna iskaznica,tourism
+44,1,MOSI (Mogućnosti osoba s invaliditetom),MOSI (Mogućnosti osoba s invaliditetom),administrative services
+45,1,Metaregistar,Metaregistar,administrative services
+46,1,Mirovinsko osiguravajuće društvo (prijava/promjena),Mirovinsko osiguravajuće društvo (prijava/promjena),pensions
+47,1,Moj račun - Gradska plinara Zagreb-Opskrba,Moj račun - Gradska plinara Zagreb-Opskrba,local administration
+48,1,MojSport,MojSport,administrative services
+49,1,MojZagreb,MojZagreb,administrative services
+50,1,Moja e-Kultura,Moja e-Kultura,tourism
+51,1,Moja mreža - HEP Operatora distribucijskog sustava,Moja mreža - HEP Operatora distribucijskog sustava,administrative services
+52,1,Nacionalni javnozdravstveni informacijski sustav - NAJS,Nacionalni javnozdravstveni informacijski sustav - NAJS,health
+53,1,Nadzor sustava JEER,Nadzor sustava JEER,administrative services
+54,1,Notar OnLine,Notar OnLine,administrative services
+55,1,OOTS platforma,OOTS platforma,administrative services
+56,1,Obvezni mirovinski fond (prijava/promjena),Obvezni mirovinski fond (prijava/promjena),pensions
+57,1,Odabir mirovine (mirovina samo iz I. stupa ili mirovina iz I. i II. stupa),Odabir mirovine (mirovina samo iz I. stupa ili mirovina iz I. i II. stupa),pensions
+58,1,OneCityApp Otočac,OneCityApp Otočac,administrative services
+59,1,Online Tečajevi Srca,Online Tečajevi Srca,administrative services
+60,1,Osnivanje trgovačkih društava na daljinu,Osnivanje trgovačkih društava na daljinu,administrative services
+61,1,Ostvarivanje prava u sustavu sporta,Ostvarivanje prava u sustavu sporta,justice
+62,1,Otočna iskaznica,Otočna iskaznica,administrative services
+63,1,Otvorena Općina Lipovljani,Otvorena Općina Lipovljani,administrative services
+64,1,Otvorena Općina Pušća,Otvorena Općina Pušća,administrative services
+65,1,Otvorena Općina Rakovica,Otvorena Općina Rakovica,administrative services
+66,1,Otvorena Općina Stari Mikanovci,Otvorena Općina Stari Mikanovci,administrative services
+67,1,Otvorena općina Klis,Otvorena općina Klis,administrative services
+68,1,Otvorena općina Trnovec Bartolovečki,Otvorena općina Trnovec Bartolovečki,administrative services
+69,1,Otvorena općina Vođinci,Otvorena općina Vođinci,administrative services
+70,1,Otvorena županija Bjelovarsko-bilogorska,Otvorena županija Bjelovarsko-bilogorska,administrative services
+71,1,"Otvoreni Grad Garešnica (dio kojega su Financijske kartice"")","Otvoreni Grad Garešnica (dio kojega su Financijske kartice"")",local administration
+72,1,Otvoreni Grad Knin,Otvoreni Grad Knin,local administration
+73,1,Otvoreni Grad Kutina,Otvoreni Grad Kutina,local administration
+74,1,Otvoreni Grad Labin,Otvoreni Grad Labin,local administration
+75,1,"Otvoreni Grad Makarska (dio kojega su ""Financijske kartice"")","Otvoreni Grad Makarska (dio kojega su ""Financijske kartice"")",local administration
+76,1,Otvoreni Grad Mali Lošinj,Otvoreni Grad Mali Lošinj,local administration
+77,1,Otvoreni Grad Split (dio kojega su ?Financijske kartice?),Otvoreni Grad Split (dio kojega su ?Financijske kartice?),local administration
+78,1,"Otvoreni Grad Trogir (dio kojega su ?Financijske kartice"")","Otvoreni Grad Trogir (dio kojega su ?Financijske kartice"")",local administration
+79,1,Otvoreni grad Ivanić Grad,Otvoreni grad Ivanić Grad,local administration
+80,1,Otvoreni grad Ludbreg,Otvoreni grad Ludbreg,local administration
+81,1,"Otvoreni grad Metković (dio kojeg su ""Financijske kartice"")","Otvoreni grad Metković (dio kojeg su ""Financijske kartice"")",local administration
+82,1,Otvoreni grad Novigrad - Cittanova,Otvoreni grad Novigrad - Cittanova,local administration
+83,1,Otvoreni grad Otočac,Otvoreni grad Otočac,local administration
+84,1,Otvoreni grad Pazin,Otvoreni grad Pazin,local administration
+85,1,Otvoreni grad Ploče,Otvoreni grad Ploče,local administration
+86,1,Otvoreni grad Slunj,Otvoreni grad Slunj,local administration
+87,1,Otvoreni grad Umag-Umago,Otvoreni grad Umag-Umago,local administration
+88,1,Platforma PiXi,Platforma PiXi,administrative services
+89,1,Platforma za upravljanje sadržajem portala- web hosting,Platforma za upravljanje sadržajem portala- web hosting,justice
+90,1,Plavi dizel - Izvještajni sustav,Plavi dizel - Izvještajni sustav,administrative services
+91,1,Podnošenje prijava nepravilnosti Državnom inspektoratu,Podnošenje prijava nepravilnosti Državnom inspektoratu,justice
+92,1,Portal Središnjeg sustava interoperabilnosti,Portal Središnjeg sustava interoperabilnosti,administrative services
+93,1,Portal otvorenih podataka,Portal otvorenih podataka,administrative services
+94,1,Portal za provedbu studentskih natječaja Vidra,Portal za provedbu studentskih natječaja Vidra,education
+95,1,Portal za suce,Portal za suce,administrative services
+96,1,Postupci vezani uz članstvo Hrvatske komore psihoterapeuta,Postupci vezani uz članstvo Hrvatske komore psihoterapeuta,administrative services
+97,1,Predaja fiskalne odgovornosti i podataka o unutarnjoj reviziji,Predaja fiskalne odgovornosti i podataka o unutarnjoj reviziji,administrative services
+98,1,Predaja zahtjeva hrvatskih branitelja i članova obitelji,Predaja zahtjeva hrvatskih branitelja i članova obitelji,citizen status
+99,1,Prijava na diplomske studije,Prijava na diplomske studije,administrative services
+100,1,Prijava nepravilnosti kupoprodaje dugovanja građana,Prijava nepravilnosti kupoprodaje dugovanja građana,justice
+101,1,Prijava nuspojava lijeka,Prijava nuspojava lijeka,administrative services
+102,1,Prijava patenta i uporabnog modela,Prijava patenta i uporabnog modela,administrative services
+103,1,Registar birača,Registar birača,administrative services
+104,1,Registar digitalnih radnih platformi i agregatora,Registar digitalnih radnih platformi i agregatora,administrative services
+105,1,Registar državnih potpora i potpora male vrijednosti,Registar državnih potpora i potpora male vrijednosti,administrative services
+106,1,Registar godišnjih financijskih izvještaja,Registar godišnjih financijskih izvještaja,administrative services
+107,1,Registar opreme pod tlakom,Registar opreme pod tlakom,administrative services
+108,1,Registar revizora,Registar revizora,administrative services
+109,1,Registar stvarnih vlasnika,Registar stvarnih vlasnika,administrative services
+110,1,Registar usluga i poruka,Registar usluga i poruka,administrative services
+111,1,Registar zaposlenih-HRM upravljanje  ljudskim potencijalima,Registar zaposlenih-HRM upravljanje  ljudskim potencijalima,justice
+112,1,Registracija objekata koji pružaju uslugu smještaja strancima,Registracija objekata koji pružaju uslugu smještaja strancima,administrative services
+113,1,Registracija operatora bespilotnih zrakoplova,Registracija operatora bespilotnih zrakoplova,administrative services
+114,1,Registracija u SISSI,Registracija u SISSI,administrative services
+115,1,Registracija žiga i industrijskog dizajna,Registracija žiga i industrijskog dizajna,administrative services
+116,1,Registri neprofitnih pravnih osoba,Registri neprofitnih pravnih osoba,justice
+117,1,Regulirane profesije iz nadležnosti Ministarstva unutarnjih poslova,Regulirane profesije iz nadležnosti Ministarstva unutarnjih poslova,administrative services
+118,1,Rovinj-Rovigno Direct,Rovinj-Rovigno Direct,administrative services
+119,1,SKDD e-Ulagatelj,SKDD e-Ulagatelj,administrative services
+120,1,SOTAH - Sustav za središnju obradu tahografskih podataka,SOTAH - Sustav za središnju obradu tahografskih podataka,administrative services
+121,1,START - elektroničko pokretanje poslovanja,START - elektroničko pokretanje poslovanja,administrative services
+122,1,START Plus,START Plus,administrative services
+123,1,START Plus Izdavatelj,START Plus Izdavatelj,administrative services
+124,1,Smart City Vodice,Smart City Vodice,administrative services
+125,1,Split Smart City,Split Smart City,administrative services
+126,1,Središnji katalog službenih dokumenata-Dostava službenih dokumenata / Preuzimanje sadržaja,Središnji katalog službenih dokumenata-Dostava službenih dokumenata / Preuzimanje sadržaja,administrative services
+127,1,Središnji registar državne imovine za PS,Središnji registar državne imovine za PS,administrative services
+128,1,Središnji sustav za e-učenje,Središnji sustav za e-učenje,administrative services
+129,1,Suglasnosti i punomoći u postupcima iz djelokruga MUP-a,Suglasnosti i punomoći u postupcima iz djelokruga MUP-a,administrative services
+130,1,Sustav evidencije elektroničkih medija,Sustav evidencije elektroničkih medija,administrative services
+131,1,Sustav za izračun cijena socijalnih usluga,Sustav za izračun cijena socijalnih usluga,social protection
+132,1,Upiti građana za Ministarstvo turizma i sporta,Upiti građana za Ministarstvo turizma i sporta,tourism
+133,1,Upravljanje ljudskim potencijalima za Specijalnu Bolnicu Biokovka,Upravljanje ljudskim potencijalima za Specijalnu Bolnicu Biokovka,justice
+134,1,Uredsko poslovanje Zavoda za informatiku Osijek,Uredsko poslovanje Zavoda za informatiku Osijek,administrative services
+135,1,"Usluga ""Digitalni obrasci Grad Crikvenica"" i objavljeno na platformi ""OTVORENI GRAD CRIKVENICA""","Usluga ""Digitalni obrasci Grad Crikvenica"" i objavljeno na platformi ""OTVORENI GRAD CRIKVENICA""",local administration
+136,1,"Usluga ""Digitalni obrasci Grad Sveta Nedelja"" i objavljeno na platformi ""OTVORENI GRAD SVETA NEDELJA""","Usluga ""Digitalni obrasci Grad Sveta Nedelja"" i objavljeno na platformi ""OTVORENI GRAD SVETA NEDELJA""",local administration
+137,1,"Usluga ""Financijske kartice grad Bjelovar"" i Usluga ""Sustav informiranja građana grad Bjelovar"" Objavljeno na platformi ""OTVORENI GRAD BJELOVAR""","Usluga ""Financijske kartice grad Bjelovar"" i Usluga ""Sustav informiranja građana grad Bjelovar"" Objavljeno na platformi ""OTVORENI GRAD BJELOVAR""",local administration
+138,1,"Usluga ""Financijske kartice grad Osijek"" i Usluga ""Sustav informiranja građana grad Osijek"" Objavljeno na platformi ""OTVORENI GRAD OSIJEK""","Usluga ""Financijske kartice grad Osijek"" i Usluga ""Sustav informiranja građana grad Osijek"" Objavljeno na platformi ""OTVORENI GRAD OSIJEK""",local administration
+139,1,Usluga - Digitalni obrasci i Financijske kartice na platformi Otvoreni Grad Ivanec,Usluga - Digitalni obrasci i Financijske kartice na platformi Otvoreni Grad Ivanec,local administration
+140,1,Usluga za elektroničko potpisivanje i pečatiranje dokumenata,Usluga za elektroničko potpisivanje i pečatiranje dokumenata,administrative services
+141,1,"Usluge ""Financijske kartice"" objavljeno na platformi ""Otvorena općina Brdovec""","Usluge ""Financijske kartice"" objavljeno na platformi ""Otvorena općina Brdovec""",administrative services
+142,1,Uvid u Registar stvarnih vlasnika,Uvid u Registar stvarnih vlasnika,administrative services
+143,1,Uvjerenje da osoba nije lišena prava na roditeljsku skrb,Uvjerenje da osoba nije lišena prava na roditeljsku skrb,justice
+144,1,Vodne usluge Međimurskih voda,Vodne usluge Međimurskih voda,administrative services
+145,1,Zahtjev za davanje ovlaštenja za energetsko certificiranje,Zahtjev za davanje ovlaštenja za energetsko certificiranje,administrative services
+146,1,Zastupanje i kolektivno ostvarivanje prava intelektualnog vlasništva,Zastupanje i kolektivno ostvarivanje prava intelektualnog vlasništva,justice
+147,1,e-Akreditacija,e-Akreditacija,administrative services
+148,1,e-Amandmani,e-Amandmani,administrative services
+149,1,e-Arhitekti,e-Arhitekti,administrative services
+150,1,e-Autoškole,e-Autoškole,administrative services
+151,1,e-Birači,e-Birači,administrative services
+152,1,e-Dječja kartica - Mudrica,e-Dječja kartica - Mudrica,administrative services
+153,1,e-Državni ispit,e-Državni ispit,administrative services
+154,1,e-Etika,e-Etika,administrative services
+155,1,e-Imovinske kartice,e-Imovinske kartice,administrative services
+156,1,e-Inženjeri elektrotehnike,e-Inženjeri elektrotehnike,administrative services
+157,1,e-Inženjeri geodezije,e-Inženjeri geodezije,administrative services
+158,1,e-Inženjeri građevinarstva,e-Inženjeri građevinarstva,administrative services
+159,1,e-Inženjeri strojarstva,e-Inženjeri strojarstva,administrative services
+160,1,e-Javne rasprave Grada Zagreba,e-Javne rasprave Grada Zagreba,local administration
+161,1,e-Kolektivni ugovori,e-Kolektivni ugovori,administrative services
+162,1,e-Konzervatorska lokacijska obavijest,e-Konzervatorska lokacijska obavijest,administrative services
+163,1,e-Matica obrazovnog sustava,e-Matica obrazovnog sustava,education
+164,1,e-Meteorološki podaci,e-Meteorološki podaci,administrative services
+165,1,e-Novorođenče,e-Novorođenče,administrative services
+166,1,e-Osiguranje radničkih tražbina,e-Osiguranje radničkih tražbina,administrative services
+167,1,e-Ovrhe,e-Ovrhe,administrative services
+168,1,e-Prijava boravišta hrvatskih državljana,e-Prijava boravišta hrvatskih državljana,administrative services
+169,1,e-Prijava stručnog ispita za obavljanje stručnih geodetskih poslova,e-Prijava stručnog ispita za obavljanje stručnih geodetskih poslova,administrative services
+170,1,e-Prijava vjenčanja,e-Prijava vjenčanja,administrative services
+171,1,e-Prijava životnog partnerstva,e-Prijava životnog partnerstva,administrative services
+172,1,e-Prijavnice Ministarstva kulture i medija,e-Prijavnice Ministarstva kulture i medija,tourism
+173,1,e-Pristojbe,e-Pristojbe,administrative services
+174,1,e-Razmjena studentskih ocjena,e-Razmjena studentskih ocjena,education
+175,1,e-Registar poreznih savjetnika,e-Registar poreznih savjetnika,taxation
+176,1,e-Savjetovanja,e-Savjetovanja,administrative services
+177,1,e-Upisi u odgojno-obrazovne ustanove,e-Upisi u odgojno-obrazovne ustanove,education
+178,1,e-Usluge sudskog registra,e-Usluge sudskog registra,justice
+179,1,e-Učenje za državni ispit,e-Učenje za državni ispit,administrative services
+180,1,e-Zahtjev za izdavanje putovnice,e-Zahtjev za izdavanje putovnice,administrative services
+181,1,e-Zahtjev za izdavanje vodopravnih akata,e-Zahtjev za izdavanje vodopravnih akata,justice
+182,1,e-Zahtjev za izdavanje vozačke dozvole,e-Zahtjev za izdavanje vozačke dozvole,administrative services
+183,1,e-Zahtjev za privremeno uzdržavanje djeteta,e-Zahtjev za privremeno uzdržavanje djeteta,administrative services
+184,1,e-postani policajac-policajka,e-postani policajac-policajka,administrative services
+185,1,e-priznavanje stručnih kvalifikacija u zdravstvu i obrazovanju,e-priznavanje stručnih kvalifikacija u zdravstvu i obrazovanju,health
+186,1,e-provjera točnosti informacija,e-provjera točnosti informacija,administrative services
+187,1,e-usavršavanje Pravosudne akademije,e-usavršavanje Pravosudne akademije,justice
+188,1,e-usluge Grada Osijeka,e-usluge Grada Osijeka,local administration
+189,1,eEnergetskiCertifikat,eEnergetskiCertifikat,administrative services
+190,1,eFZOEU,eFZOEU,administrative services
+191,1,eFondovi,eFondovi,administrative services
+192,1,eGrađevinska dozvola za ovlaštene korisnike,eGrađevinska dozvola za ovlaštene korisnike,administrative services
+193,1,eGrađevinski dnevnik,eGrađevinski dnevnik,administrative services
+194,1,eInstalateriOIE,eInstalateriOIE,administrative services
+195,1,eInvesticije- sustav za prijavu i poticaje strateških projekata,eInvesticije- sustav za prijavu i poticaje strateških projekata,administrative services
+196,1,eNautika,eNautika,administrative services
+197,1,eObnova,eObnova,administrative services
+198,1,ePlanovi,ePlanovi,administrative services
+199,1,ePlanovi editor,ePlanovi editor,administrative services
+200,1,ePlanovi editor (DPPR - admin),ePlanovi editor (DPPR - admin),administrative services
+201,1,ePlovilo,ePlovilo,administrative services
+202,1,ePodaciIK,ePodaciIK,administrative services
+203,1,ePodnesak Ministarstva znanosti i obrazovanja,ePodnesak Ministarstva znanosti i obrazovanja,education
+204,1,eSateliti,eSateliti,administrative services
+205,1,eTahograf,eTahograf,administrative services
+206,1,eTaksi,eTaksi,administrative services
+207,1,eTurizam,eTurizam,tourism
+208,1,eVisitor,eVisitor,administrative services
+209,1,eZadrani,eZadrani,administrative services
+210,1,edubrovnik,edubrovnik,administrative services
+211,1,mGrađani,mGrađani,administrative services

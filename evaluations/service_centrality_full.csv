@@ -1,0 +1,242 @@
+﻿service,degree_centrality,betweenness_centrality,eigenvector_centrality,session_count
+Sustav Fondovi EU,0.004166666666666667,0.0,1.0,30484
+eKohezija 2021-2027,0.004166666666666667,0.0,1.0,52901
+Moj profil,0.13333333333333333,0.009611808461180848,0.9249865849466644,1649388
+Korisnički pretinac,0.1125,0.004556020455602044,0.7923066265848134,1060857
+Portal zdravlja,0.058333333333333334,0.000558461180846118,0.6068973089098515,808922
+ePorezna,0.03333333333333333,8.426313342631332e-05,0.25782878907274015,969662
+e-Komunikacija,0.020833333333333332,2.324500232450023e-05,0.1446386004088903,364943
+e-Matične knjige,0.03333333333333333,3.661087866108787e-05,0.1234479858172782,102388
+e-Usluge MUP-a,0.03333333333333333,3.661087866108787e-05,0.11155123762249217,87191
+e-Usluge HZMO-a,0.04583333333333333,0.00024465364946536496,0.10509686703556229,152983
+eHZZO,0.020833333333333332,8.716875871687587e-06,0.06989691980556788,61895
+e-Upravni postupak,0.0125,0.0,0.0525787713940386,40228
+Moj OIB,0.020833333333333332,0.0,0.04510987670942065,33236
+e-Dnevnik za roditelje,0.0125,0.0,0.04283075432626857,112882
+e-Dugovanja (e-Blokade),0.008333333333333333,0.0,0.04049854150921671,62970
+Burza rada,0.008333333333333333,0.0,0.03825248486503198,132751
+Moja mirovina,0.020833333333333332,1.7433751743375174e-05,0.03708184303904178,43404
+e-Usluge Središnjeg registra osiguranika - REGOS,0.020833333333333332,1.7433751743375174e-05,0.03449530214595122,33873
+Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,0.0125,0.0,0.0317994122938662,82997
+Centralizirani sustav za zapošljavanje,0.008333333333333333,0.0,0.03069777613118619,64825
+Uvjerenje da se ne vodi kazneni ili prekršajni postupak,0.020833333333333332,0.0,0.02943427208049878,41464
+eGrađevinska dozvola i druge usluge u gradnji,0.008333333333333333,0.0,0.027108914668752065,61633
+E-Usluge javnozdravstvenih registara,0.016666666666666666,0.0,0.016325244393754282,14404
+e-Obrt,0.0125,0.0,0.015507193780049578,25481
+Moj račun - REGOS,0.016666666666666666,6.97350069735007e-06,0.014295003344792534,27665
+Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,0.0125,0.0,0.014066059188629743,19218
+Obavijest o prekršaju u prometu,0.008333333333333333,0.0,0.013377275687266812,17697
+Korisničke stranice HZMO-a,0.0125,0.0,0.011636983423632695,15739
+e-Ovlaštenja,0.008333333333333333,0.0,0.008610569368884198,12736
+Registar proizvođača s proširenom odgovornosti (RPPO),0.0125,0.0,0.0076426207808195845,19348
+e-Zapis o statusu studenta,0.004166666666666667,0.0,0.007051764973896917,19565
+e-Usluge socijalna skrb,0.004166666666666667,0.0,0.0038692834332743017,6942
+e-Poljoprivreda,0.004166666666666667,0.0,0.0037761854359350724,37461
+Uvjerenje iz kaznene evidencije,0.004166666666666667,0.0,0.003503424636713118,8750
+e-Pomorac,0.004166666666666667,0.0,0.003349077956913869,16401
+Dostava elektroničkih isprava za registraciju vozila u Republici Hrvatskoj,0.0,0.0,0.0,1788
+CTS uvid u predmete,0.0,0.0,0.0,14
+CARNET mToken,0.0,0.0,0.0,1451
+EDIP,0.0,0.0,0.0,471
+Elektronički oglasnik javne nabave RH,0.0,0.0,0.0,1371
+Financijske kartice - Grad Kastav i Sustav informiranja građana - Grad Kastav,0.0,0.0,0.0,26
+Geoportal Jaska,0.0,0.0,0.0,126
+Digitalna komora HGK,0.0,0.0,0.0,263
+Centralni metaregistar MPGI i Informacijskog sustava prostornog uređenja,0.0,0.0,0.0,237
+CDU korisnički portal,0.0,0.0,0.0,3179
+Antikorupcijski dokumenti i trgovačka društva u vlasništvu države i JLP(R)S,0.0,0.0,0.0,40
+CARNET Login,0.0,0.0,0.0,1808
+"""Sustav informiranja građana"" (u sklopu portala Otvoreni grad Pregrada)",0.0,0.0,0.0,5
+"""Financijske kartice grad Grad Poreč-Parenzo"" Objavljeno na platformi ""Otvoreni grad Poreč-Parenzo""",0.0,0.0,0.0,11
+Moj račun - Gradska plinara Zagreb-Opskrba,0.0,0.0,0.0,2877
+Mirovinsko osiguravajuće društvo (prijava/promjena),0.0,0.0,0.0,1546
+MOSI (Mogućnosti osoba s invaliditetom),0.0,0.0,0.0,3931
+Metaregistar,0.0,0.0,0.0,175
+Kalendar plaćanja obveznih naknada,0.0,0.0,0.0,1529
+Moja mreža - HEP Operatora distribucijskog sustava,0.0,0.0,0.0,11936
+Moja e-Kultura,0.0,0.0,0.0,546
+MojZagreb,0.0,0.0,0.0,352
+Nadzor sustava JEER,0.0,0.0,0.0,87
+Notar OnLine,0.0,0.0,0.0,163
+OOTS platforma,0.0,0.0,0.0,1
+Obvezni mirovinski fond (prijava/promjena),0.0,0.0,0.0,5985
+Odabir mirovine (mirovina samo iz I. stupa ili mirovina iz I. i II. stupa),0.0,0.0,0.0,1125
+OneCityApp Otočac,0.0,0.0,0.0,10
+Nacionalni javnozdravstveni informacijski sustav - NAJS,0.0,0.0,0.0,292
+MojSport,0.0,0.0,0.0,3488
+Ostvarivanje prava u sustavu sporta,0.0,0.0,0.0,1495
+Otočna iskaznica,0.0,0.0,0.0,1083
+Otvorena Općina Lipovljani,0.0,0.0,0.0,1
+Otvorena Općina Pušća,0.0,0.0,0.0,1
+Otvorena Općina Rakovica,0.0,0.0,0.0,1
+Otvorena Općina Stari Mikanovci,0.0,0.0,0.0,4
+Otvorena općina Klis,0.0,0.0,0.0,9
+Otvorena općina Trnovec Bartolovečki,0.0,0.0,0.0,358
+Otvorena općina Vođinci,0.0,0.0,0.0,4
+Otvorena županija Bjelovarsko-bilogorska,0.0,0.0,0.0,1
+"Otvoreni Grad Garešnica (dio kojega su Financijske kartice"")",0.0,0.0,0.0,2
+Otvoreni Grad Knin,0.0,0.0,0.0,3
+Otvoreni Grad Kutina,0.0,0.0,0.0,5
+Otvoreni Grad Labin,0.0,0.0,0.0,11
+Online Tečajevi Srca,0.0,0.0,0.0,299
+Osnivanje trgovačkih društava na daljinu,0.0,0.0,0.0,396
+Otvoreni Grad Mali Lošinj,0.0,0.0,0.0,1
+"Otvoreni Grad Makarska (dio kojega su ""Financijske kartice"")",0.0,0.0,0.0,15
+Otvoreni grad Ivanić Grad,0.0,0.0,0.0,5
+Otvoreni Grad Split (dio kojega su ?Financijske kartice?),0.0,0.0,0.0,74
+"Otvoreni grad Metković (dio kojeg su ""Financijske kartice"")",0.0,0.0,0.0,5
+Otvoreni grad Novigrad - Cittanova,0.0,0.0,0.0,1
+Otvoreni grad Otočac,0.0,0.0,0.0,1
+"Otvoreni Grad Trogir (dio kojega su ?Financijske kartice"")",0.0,0.0,0.0,1
+Otvoreni grad Pazin,0.0,0.0,0.0,4
+HZMO Lana,0.0,0.0,0.0,3477
+Home for Homeless servis sustava AAI@EduHr,0.0,0.0,0.0,34
+ISZNR (Informacijski sustav zaštite na radu),0.0,0.0,0.0,12437
+Financijske kartice Grad Dugo Selo i Sustav informiranja građana objavljeno na platformi OTVORENI GRAD DUGO SELO,0.0,0.0,0.0,13
+Financijske kartice Grada Sveti Ivan Zelina,0.0,0.0,0.0,10
+Financijsko izvještavanje u sustavu proračuna i Registar proračunskih i izvanproračunskih korisnika.(RKPFI),0.0,0.0,0.0,16422
+Geoportal ISPU,0.0,0.0,0.0,2473
+Izdavanje elektroničke isprave Grada Zagreba,0.0,0.0,0.0,7973
+InterniTurizam,0.0,0.0,0.0,3434
+Informacijski sustav-digitalna platforma za vrijednosne papire,0.0,0.0,0.0,2752
+Informacijski sustav evidencija u visokom obrazovanju - ISeVO,0.0,0.0,0.0,4891
+JRPI - Jedinstveni registar poduzetničke infrastrukture,0.0,0.0,0.0,328
+Javni pozivi i natječaji Grada Splita,0.0,0.0,0.0,465
+Jedinstvena informacijska točka - Sustava katastra infrastrukture,0.0,0.0,0.0,3375
+Jedinstveni informacijski sustav za prikupljanje i pohranu podataka te izračun indikatora za procjenu kapaciteta JLP(R)S,0.0,0.0,0.0,82
+Kooltura - Kulturna iskaznica,0.0,0.0,0.0,496
+Kontakt centar za prijavu IKT problema i predaju zahtjeva,0.0,0.0,0.0,26
+Komunalne usluge i naknade,0.0,0.0,0.0,4638
+"""Financijske kartice građana Grada Vodnjana-Dignano""",0.0,0.0,0.0,4
+AKD AFFINIS izvještajno-upravljački sustav,0.0,0.0,0.0,18
+Administracija sustava e-upisi u odgojno-obrazovne ustanove,0.0,0.0,0.0,1931
+Aktivacija mGrađani mobilne aplikacije,0.0,0.0,0.0,1963
+"""Financijske kartice"" (u sklopu portala Otvoreni grad Zaprešić)",0.0,0.0,0.0,41
+Registar godišnjih financijskih izvještaja,0.0,0.0,0.0,3972
+Registar državnih potpora i potpora male vrijednosti,0.0,0.0,0.0,995
+Registar digitalnih radnih platformi i agregatora,0.0,0.0,0.0,31
+Registar birača,0.0,0.0,0.0,143
+Prijava patenta i uporabnog modela,0.0,0.0,0.0,667
+Prijava nuspojava lijeka,0.0,0.0,0.0,304
+Prijava nepravilnosti kupoprodaje dugovanja građana,0.0,0.0,0.0,201
+Prijava na diplomske studije,0.0,0.0,0.0,311
+Predaja zahtjeva hrvatskih branitelja i članova obitelji,0.0,0.0,0.0,1350
+Predaja fiskalne odgovornosti i podataka o unutarnjoj reviziji,0.0,0.0,0.0,1821
+Postupci vezani uz članstvo Hrvatske komore psihoterapeuta,0.0,0.0,0.0,276
+Portal za suce,0.0,0.0,0.0,126
+Portal otvorenih podataka,0.0,0.0,0.0,234
+Portal za provedbu studentskih natječaja Vidra,0.0,0.0,0.0,5380
+Portal Središnjeg sustava interoperabilnosti,0.0,0.0,0.0,9
+Podnošenje prijava nepravilnosti Državnom inspektoratu,0.0,0.0,0.0,661
+Otvoreni grad Ludbreg,0.0,0.0,0.0,3
+Plavi dizel - Izvještajni sustav,0.0,0.0,0.0,1339
+Platforma za upravljanje sadržajem portala- web hosting,0.0,0.0,0.0,149
+Platforma PiXi,0.0,0.0,0.0,225
+Otvoreni grad Slunj,0.0,0.0,0.0,24
+Otvoreni grad Umag-Umago,0.0,0.0,0.0,2
+Otvoreni grad Ploče,0.0,0.0,0.0,1
+START - elektroničko pokretanje poslovanja,0.0,0.0,0.0,7936
+Registracija u SISSI,0.0,0.0,0.0,742
+Registracija žiga i industrijskog dizajna,0.0,0.0,0.0,453
+Registar revizora,0.0,0.0,0.0,263
+Registar opreme pod tlakom,0.0,0.0,0.0,467
+Registar usluga i poruka,0.0,0.0,0.0,54
+Registar zaposlenih-HRM upravljanje  ljudskim potencijalima,0.0,0.0,0.0,1556
+Registracija objekata koji pružaju uslugu smještaja strancima,0.0,0.0,0.0,246
+Registar stvarnih vlasnika,0.0,0.0,0.0,2421
+"Usluga ""Digitalni obrasci Grad Sveta Nedelja"" i objavljeno na platformi ""OTVORENI GRAD SVETA NEDELJA""",0.0,0.0,0.0,11
+"Usluga ""Digitalni obrasci Grad Crikvenica"" i objavljeno na platformi ""OTVORENI GRAD CRIKVENICA""",0.0,0.0,0.0,10
+Uredsko poslovanje Zavoda za informatiku Osijek,0.0,0.0,0.0,3
+Upravljanje ljudskim potencijalima za Specijalnu Bolnicu Biokovka,0.0,0.0,0.0,18
+Upiti građana za Ministarstvo turizma i sporta,0.0,0.0,0.0,2
+Sustav za izračun cijena socijalnih usluga,0.0,0.0,0.0,646
+Usluga za elektroničko potpisivanje i pečatiranje dokumenata,0.0,0.0,0.0,9046
+"Usluga ""Financijske kartice grad Bjelovar"" i Usluga ""Sustav informiranja građana grad Bjelovar"" Objavljeno na platformi ""OTVORENI GRAD BJELOVAR""",0.0,0.0,0.0,36
+Uvjerenje da osoba nije lišena prava na roditeljsku skrb,0.0,0.0,0.0,561
+Uvid u Registar stvarnih vlasnika,0.0,0.0,0.0,6071
+Vodne usluge Međimurskih voda,0.0,0.0,0.0,297
+Zahtjev za davanje ovlaštenja za energetsko certificiranje,0.0,0.0,0.0,679
+Zastupanje i kolektivno ostvarivanje prava intelektualnog vlasništva,0.0,0.0,0.0,60
+"Usluge ""Financijske kartice"" objavljeno na platformi ""Otvorena općina Brdovec""",0.0,0.0,0.0,10
+Usluga - Digitalni obrasci i Financijske kartice na platformi Otvoreni Grad Ivanec,0.0,0.0,0.0,2
+"Usluga ""Financijske kartice grad Osijek"" i Usluga ""Sustav informiranja građana grad Osijek"" Objavljeno na platformi ""OTVORENI GRAD OSIJEK""",0.0,0.0,0.0,110
+e-Arhitekti,0.0,0.0,0.0,382
+START Plus,0.0,0.0,0.0,736
+Smart City Vodice,0.0,0.0,0.0,7
+START Plus Izdavatelj,0.0,0.0,0.0,142
+Središnji katalog službenih dokumenata-Dostava službenih dokumenata / Preuzimanje sadržaja,0.0,0.0,0.0,368
+Središnji registar državne imovine za PS,0.0,0.0,0.0,248
+Središnji sustav za e-učenje,0.0,0.0,0.0,1
+Split Smart City,0.0,0.0,0.0,1737
+Suglasnosti i punomoći u postupcima iz djelokruga MUP-a,0.0,0.0,0.0,1009
+Sustav evidencije elektroničkih medija,0.0,0.0,0.0,432
+Registri neprofitnih pravnih osoba,0.0,0.0,0.0,427
+Regulirane profesije iz nadležnosti Ministarstva unutarnjih poslova,0.0,0.0,0.0,105
+Rovinj-Rovigno Direct,0.0,0.0,0.0,42
+SKDD e-Ulagatelj,0.0,0.0,0.0,7055
+SOTAH - Sustav za središnju obradu tahografskih podataka,0.0,0.0,0.0,3737
+Registracija operatora bespilotnih zrakoplova,0.0,0.0,0.0,1471
+e-Konzervatorska lokacijska obavijest,0.0,0.0,0.0,297
+e-Kolektivni ugovori,0.0,0.0,0.0,1312
+e-Javne rasprave Grada Zagreba,0.0,0.0,0.0,96
+e-Inženjeri strojarstva,0.0,0.0,0.0,198
+e-Inženjeri geodezije,0.0,0.0,0.0,297
+e-Inženjeri građevinarstva,0.0,0.0,0.0,702
+e-Inženjeri elektrotehnike,0.0,0.0,0.0,505
+e-Imovinske kartice,0.0,0.0,0.0,363
+e-Autoškole,0.0,0.0,0.0,48
+e-Etika,0.0,0.0,0.0,274
+e-Državni ispit,0.0,0.0,0.0,5758
+e-Dječja kartica - Mudrica,0.0,0.0,0.0,2668
+e-Birači,0.0,0.0,0.0,271
+e-Akreditacija,0.0,0.0,0.0,817
+e-Amandmani,0.0,0.0,0.0,4
+e-Osiguranje radničkih tražbina,0.0,0.0,0.0,555
+e-Pristojbe,0.0,0.0,0.0,2754
+e-Prijavnice Ministarstva kulture i medija,0.0,0.0,0.0,4529
+e-Prijava životnog partnerstva,0.0,0.0,0.0,381
+e-Prijava vjenčanja,0.0,0.0,0.0,2071
+e-Prijava stručnog ispita za obavljanje stručnih geodetskih poslova,0.0,0.0,0.0,55
+e-Prijava boravišta hrvatskih državljana,0.0,0.0,0.0,3495
+e-Upisi u odgojno-obrazovne ustanove,0.0,0.0,0.0,7807
+e-Savjetovanja,0.0,0.0,0.0,2437
+e-Razmjena studentskih ocjena,0.0,0.0,0.0,693
+e-Registar poreznih savjetnika,0.0,0.0,0.0,131
+e-Učenje za državni ispit,0.0,0.0,0.0,13312
+e-Usluge sudskog registra,0.0,0.0,0.0,3869
+e-Ovrhe,0.0,0.0,0.0,14074
+e-Meteorološki podaci,0.0,0.0,0.0,14
+e-Novorođenče,0.0,0.0,0.0,2917
+e-Matica obrazovnog sustava,0.0,0.0,0.0,2679
+e-Zahtjev za privremeno uzdržavanje djeteta,0.0,0.0,0.0,803
+e-Zahtjev za izdavanje vozačke dozvole,0.0,0.0,0.0,3108
+e-Zahtjev za izdavanje vodopravnih akata,0.0,0.0,0.0,124
+e-Zahtjev za izdavanje putovnice,0.0,0.0,0.0,1595
+e-usluge Grada Osijeka,0.0,0.0,0.0,331
+e-priznavanje stručnih kvalifikacija u zdravstvu i obrazovanju,0.0,0.0,0.0,472
+e-provjera točnosti informacija,0.0,0.0,0.0,4
+e-postani policajac-policajka,0.0,0.0,0.0,314
+eFondovi,0.0,0.0,0.0,4630
+eFZOEU,0.0,0.0,0.0,12272
+eEnergetskiCertifikat,0.0,0.0,0.0,4847
+eGrađevinska dozvola za ovlaštene korisnike,0.0,0.0,0.0,46572
+eGrađevinski dnevnik,0.0,0.0,0.0,51765
+eInstalateriOIE,0.0,0.0,0.0,25
+eInvesticije- sustav za prijavu i poticaje strateških projekata,0.0,0.0,0.0,5
+e-usavršavanje Pravosudne akademije,0.0,0.0,0.0,1293
+eNautika,0.0,0.0,0.0,404
+eObnova,0.0,0.0,0.0,613
+ePlanovi editor,0.0,0.0,0.0,3568
+ePlanovi,0.0,0.0,0.0,3054
+ePlanovi editor (DPPR - admin),0.0,0.0,0.0,11
+ePlovilo,0.0,0.0,0.0,1652
+ePodaciIK,0.0,0.0,0.0,316
+ePodnesak Ministarstva znanosti i obrazovanja,0.0,0.0,0.0,414
+eSateliti,0.0,0.0,0.0,13
+eTahograf,0.0,0.0,0.0,272
+eTaksi,0.0,0.0,0.0,3017
+eTurizam,0.0,0.0,0.0,2353
+eVisitor,0.0,0.0,0.0,7987
+eZadrani,0.0,0.0,0.0,324
+edubrovnik,0.0,0.0,0.0,10
+mGrađani,0.0,0.0,0.0,34213

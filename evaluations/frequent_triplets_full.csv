@@ -1,0 +1,51 @@
+﻿itemset,itemset_size,session_count,support,support_percentage
+Korisnički pretinac | Moj profil | Portal zdravlja,3,163926,0.04033839,4.0338
+Korisnički pretinac | Moj profil | ePorezna,3,93672,0.02305051,2.3051
+Korisnički pretinac | Moj profil | e-Komunikacija,3,64778,0.01594036,1.594
+Korisnički pretinac | Moj profil | e-Usluge MUP-a,3,40164,0.00988343,0.9883
+Korisnički pretinac | Moj profil | e-Matične knjige,3,40001,0.00984332,0.9843
+Korisnički pretinac | Moj profil | e-Usluge HZMO-a,3,31527,0.00775806,0.7758
+Korisnički pretinac | Moj profil | e-Upravni postupak,3,26666,0.00656188,0.6562
+Moj profil | Portal zdravlja | e-Matične knjige,3,25846,0.0063601,0.636
+Moj profil | e-Matične knjige | e-Usluge MUP-a,3,22997,0.00565903,0.5659
+Moj profil | Portal zdravlja | eHZZO,3,22873,0.00562851,0.5629
+Korisnički pretinac | Moj profil | eHZZO,3,22698,0.00558545,0.5585
+Moj profil | Portal zdravlja | e-Usluge MUP-a,3,22605,0.00556257,0.5563
+Korisnički pretinac | Moj profil | e-Dugovanja (e-Blokade),3,16203,0.00398718,0.3987
+Moj profil | Portal zdravlja | ePorezna,3,16003,0.00393797,0.3938
+Korisnički pretinac | Moj OIB | Moj profil,3,15431,0.00379721,0.3797
+Korisnički pretinac | Moj profil | e-Usluge Središnjeg registra osiguranika - REGOS,3,15376,0.00378368,0.3784
+Korisnički pretinac | Portal zdravlja | e-Matične knjige,3,14695,0.0036161,0.3616
+Korisnički pretinac | Portal zdravlja | eHZZO,3,14464,0.00355925,0.3559
+Korisnički pretinac | Portal zdravlja | e-Usluge MUP-a,3,13806,0.00339734,0.3397
+Korisnički pretinac | e-Matične knjige | e-Usluge MUP-a,3,12673,0.00311853,0.3119
+Korisnički pretinac | Moj profil | Moja mirovina,3,12614,0.00310401,0.3104
+Moj OIB | Moj profil | e-Matične knjige,3,12462,0.00306661,0.3067
+Korisnički pretinac | Portal zdravlja | ePorezna,3,11908,0.00293028,0.293
+Moj OIB | Moj profil | Portal zdravlja,3,11659,0.00286901,0.2869
+Korisnički pretinac | Moj profil | e-Dnevnik za roditelje,3,11110,0.00273391,0.2734
+Korisnički pretinac | Moj profil | Zajednički informacijski sustav zemljišnih knjiga i katastra - ZIS OSS,3,10342,0.00254493,0.2545
+Burza rada | Korisnički pretinac | Moj profil,3,10308,0.00253656,0.2537
+Centralizirani sustav za zapošljavanje | Korisnički pretinac | Moj profil,3,10069,0.00247775,0.2478
+Portal zdravlja | e-Matične knjige | e-Usluge MUP-a,3,9967,0.00245265,0.2453
+Korisnički pretinac | Moj profil | Uvjerenje da se ne vodi kazneni ili prekršajni postupak,3,9369,0.00230549,0.2305
+Moj profil | e-Matične knjige | e-Usluge HZMO-a,3,9276,0.00228261,0.2283
+Moj OIB | Moj profil | e-Usluge MUP-a,3,8952,0.00220288,0.2203
+Korisnički pretinac | Portal zdravlja | e-Komunikacija,3,8761,0.00215588,0.2156
+Moj profil | Portal zdravlja | e-Usluge HZMO-a,3,8480,0.00208673,0.2087
+Moj profil | Portal zdravlja | e-Komunikacija,3,8379,0.00206188,0.2062
+Korisnički pretinac | Portal zdravlja | e-Upravni postupak,3,7487,0.00184238,0.1842
+Korisnički pretinac | Moj OIB | e-Matične knjige,3,6990,0.00172008,0.172
+Korisnički pretinac | Moj OIB | Portal zdravlja,3,6859,0.00168784,0.1688
+Moj OIB | Portal zdravlja | e-Matične knjige,3,6753,0.00166176,0.1662
+Korisnički pretinac | Moj profil | eGrađevinska dozvola i druge usluge u gradnji,3,6738,0.00165807,0.1658
+Moj profil | Portal zdravlja | e-Upravni postupak,3,6584,0.00162017,0.162
+Moj OIB | e-Matične knjige | e-Usluge MUP-a,3,6459,0.00158941,0.1589
+Moj profil | Portal zdravlja | e-Dnevnik za roditelje,3,6309,0.0015525,0.1552
+Moj profil | e-Matične knjige | ePorezna,3,6226,0.00153207,0.1532
+Korisnički pretinac | Portal zdravlja | e-Usluge HZMO-a,3,6193,0.00152395,0.1524
+Korisnički pretinac | Moj profil | Porezna prijava za obračun i plaćanje posebnog poreza na motorna vozila,3,6030,0.00148384,0.1484
+Moj profil | e-Usluge HZMO-a | ePorezna,3,5871,0.00144472,0.1445
+Moj profil | e-Usluge MUP-a | ePorezna,3,5867,0.00144373,0.1444
+E-Usluge javnozdravstvenih registara | Moj profil | Portal zdravlja,3,5621,0.0013832,0.1383
+Korisnički pretinac | Moj profil | Obavijest o prekršaju u prometu,3,5584,0.00137409,0.1374
